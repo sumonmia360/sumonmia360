@@ -8,7 +8,7 @@
 
 <br />
 
-[<p align="center">[<img height="75" src="https://github.com/sumonmia360/sumonmia360/blob/main/Linkedin.png">](https://www.linkedin.com/in/sumonmia360)[<img height="75" src="https://github.com/sumonmia360/sumonmia360/blob/main/Facebook.png">](https://www.facebook.com/sumonmia360/)[<img height="75" src="https://github.com/sumonmia360/sumonmia360/blob/main/Twitter.png"> </p>](https://x.com/SumonMia360)
+[<p align="center">[<img height="75" src="https://github.com/sumonmia360/sumonmia360/blob/main/Linkedin.png">(https://www.linkedin.com/in/sumonmia360)[<img height="75" src="https://github.com/sumonmia360/sumonmia360/blob/main/Facebook.png">](https://www.facebook.com/sumonmia360/)[<img height="75" src="https://github.com/sumonmia360/sumonmia360/blob/main/Twitter.png"> </p>](https://x.com/SumonMia360)
 
 
 <br />
