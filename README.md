@@ -31,7 +31,8 @@
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/tailwind.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Bootsrap.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/firebase.png"/>
-<img src="https://i.ibb.co.com/N6VZjQkB/final.png"/>
+<img src="https://i.ibb.co.com/G3F4TnD3/Untitled-design-1.png"/>
+<!-- <img src="https://i.ibb.co.com/N6VZjQkB/final.png"/> -->
 </p>
 <p align="center">
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/node.png"/>
