@@ -51,7 +51,7 @@
 
 <br />
 
-## :book: My recent blog posts
+<!--  ## :book: My recent blog posts -->
 <!-- BLOG-POST-LIST:START -->
 -
 - 
